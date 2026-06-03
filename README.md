@@ -46,48 +46,6 @@ Raw Reviews → Text Cleaning → Sentiment Scoring (VADER + RoBERTa) → Dashbo
 
 ---
 
-## ⚡ Quickstart
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/sentiment-analysis-dashboard
-cd sentiment-analysis-dashboard
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Run the app
-streamlit run app.py
-```
-
-Open `http://localhost:8501` in your browser.
-
----
-
-## 📁 Project Structure
-
-```
-sentiment-analysis-dashboard/
-├── app.py                  # Main Streamlit dashboard
-├── requirements.txt        # Dependencies
-├── notebooks/
-│   └── analysis.ipynb      # VADER vs RoBERTa comparison notebook
-├── .streamlit/
-│   └── config.toml         # Dark theme config
-└── README.md
-```
-
----
-
-## 🌐 Deploy to Streamlit Cloud (Free)
-
-1. Push this repo to GitHub
-2. Go to [streamlit.io/cloud](https://streamlit.io/cloud) → **New app**
-3. Select your repo → `app.py` as main file → **Deploy**
-4. You'll get a public URL like `https://your-app.streamlit.app` in ~2 minutes
-
----
-
 ## 💡 Key Learnings & Trade-offs
 
 **Why VADER for the dashboard (not RoBERTa)?**  
@@ -116,7 +74,7 @@ VADER runs at ~0.1ms/review with no GPU — perfect for an interactive dashboard
 ## 👤 Author
 
 **HIMANSHU** — B.Tech CSE, MD University  
-[LinkedIn](https://linkedin.com/in/himanshu) · [GitHub](https://github.com/himanshu-57)
+[LinkedIn](https://linkedin.com/in/himanshu-906193348/) · [GitHub](https://github.com/himanshu-57)
 
 ---
 
