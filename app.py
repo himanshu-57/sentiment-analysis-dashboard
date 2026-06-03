@@ -408,7 +408,7 @@ st.markdown("---")
 st.markdown(
     "<div style='text-align:center;color:#444;font-size:0.8rem'>"
     "Built with Python · VADER · Streamlit · Matplotlib | "
-    "Rahul Sharma — AI Engineer Portfolio Project"
+    "Himanshu — AI Engineer Portfolio Project"
     "</div>",
     unsafe_allow_html=True
 )
