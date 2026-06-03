@@ -2,7 +2,7 @@
 
 > **NLP pipeline** that analyses product review sentiment using VADER and RoBERTa, visualised in an interactive Streamlit dashboard.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sentiment-analysis-dashboard-l9cuzrkmn5xtlenvkynuec.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
